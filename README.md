@@ -3,7 +3,6 @@ actual VO, motion estimation, scale handling
 SORT, ego compensation
 filter to reduce jitter?
 
-Requires: OpenCV and QT6Widgets
 To run:
 ```
 # 1. Download KITTI Dataset, off tracking page download - camera calibration, left color camera, and labels
