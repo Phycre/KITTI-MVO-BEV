@@ -6,7 +6,7 @@
 
 int main() {
 	std::string base_path = "../data/training";
-	std::string seq_id = "0002";
+	std::string seq_id = "0004";
 	KittiLoader loader(base_path, seq_id);
 	BEVVisualizer bev_viz(10.0f);
 
